@@ -1,0 +1,7 @@
+# Path: TextClassification_Using_ML\requirements.txt
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+nltk
